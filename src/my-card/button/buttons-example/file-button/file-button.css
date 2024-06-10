@@ -1,0 +1,29 @@
+.file-button {
+  padding: 20px;
+  font-size: 24px;
+  border-radius: 20px;
+  border: 0;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+  margin-bottom: 30px;
+}
+
+.file-button1 {
+  background-color: #544b8b;
+  color: #e69a8d
+}
+
+.file-button1.pink {
+  background-color: #e69a8d;
+  color: #544b8b;
+}
+
+.file-button2 {
+  background-color: #00203f;
+  color: #adefd1;
+}
+
+.file-button2.aqua {
+  background-color: #adefd1;
+  color: #00203f;
+}
