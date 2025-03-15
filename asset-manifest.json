@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/SimpleChooseTeamCard-ReactComponents/static/css/main.01182b2d.css",
-    "main.js": "/SimpleChooseTeamCard-ReactComponents/static/js/main.34afed84.js",
-    "static/js/453.ed3810f9.chunk.js": "/SimpleChooseTeamCard-ReactComponents/static/js/453.ed3810f9.chunk.js",
+    "main.css": "/SimpleChooseTeamCard-ReactComponents/static/css/main.a6127827.css",
+    "main.js": "/SimpleChooseTeamCard-ReactComponents/static/js/main.38c11521.js",
     "index.html": "/SimpleChooseTeamCard-ReactComponents/index.html",
-    "main.01182b2d.css.map": "/SimpleChooseTeamCard-ReactComponents/static/css/main.01182b2d.css.map",
-    "main.34afed84.js.map": "/SimpleChooseTeamCard-ReactComponents/static/js/main.34afed84.js.map",
-    "453.ed3810f9.chunk.js.map": "/SimpleChooseTeamCard-ReactComponents/static/js/453.ed3810f9.chunk.js.map"
+    "main.a6127827.css.map": "/SimpleChooseTeamCard-ReactComponents/static/css/main.a6127827.css.map",
+    "main.38c11521.js.map": "/SimpleChooseTeamCard-ReactComponents/static/js/main.38c11521.js.map"
   },
   "entrypoints": [
-    "static/css/main.01182b2d.css",
-    "static/js/main.34afed84.js"
+    "static/css/main.a6127827.css",
+    "static/js/main.38c11521.js"
   ]
 }
