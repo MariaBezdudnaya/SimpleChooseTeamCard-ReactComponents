@@ -2,7 +2,7 @@ export const JsStyles = {
   padding: "20px",
   margin: "20px 0",
   
-  fontSize: "24px",
+  fontSize: "20px",
   borderRadius: "20px",
   border: "0",
 
